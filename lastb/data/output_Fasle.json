@@ -1,0 +1,611 @@
+{"false":[        {
+            "IP_Address" : "218.92.0.144",
+            "times" : 3864,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "59.36.144.188",
+            "times" : 1092,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "218.92.0.156",
+            "times" : 955,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "222.186.52.123",
+            "times" : 200,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "222.186.52.124",
+            "times" : 156,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "122.195.200.36",
+            "times" : 156,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "183.131.82.99",
+            "times" : 147,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "122.195.200.14",
+            "times" : 147,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "218.92.0.196",
+            "times" : 93,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "222.186.15.28",
+            "times" : 84,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "222.186.15.110",
+            "times" : 72,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "117.0.35.153",
+            "times" : 23,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "49.69.155.88",
+            "times" : 19,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "rosaluxemburg.tor-exit.calyxinstitute.org",
+            "times" : 8,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "92.62.139.103",
+            "times" : 7,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "181.emeraldonion.org",
+            "times" : 6,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "turing.tor-exit.calyxinstitute.org",
+            "times" : 5,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "djb.tor-exit.calyxinstitute.org",
+            "times" : 5,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "62.102.148.68",
+            "times" : 4,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "185.220.101.70",
+            "times" : 4,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "185.220.101.7",
+            "times" : 4,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "185.220.101.6",
+            "times" : 4,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "185.220.101.21",
+            "times" : 4,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "165.emeraldonion.org",
+            "times" : 4,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "149.202.170.60",
+            "times" : 4,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "zrh-exit.privateinternetaccess.com",
+            "times" : 3,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "tor-exit3-readme.dfri.se",
+            "times" : 3,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "phoolandevi.tor-exit.calyxinstitute.org",
+            "times" : 3,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "kiriakou.tor-exit.calyxinstitute.org",
+            "times" : 3,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "94.102.51.78",
+            "times" : 3,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "193.emeraldonion.org",
+            "times" : 3,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "185.220.101.57",
+            "times" : 3,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "185.220.101.25",
+            "times" : 3,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "185.220.101.22",
+            "times" : 3,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "162.emeraldonion.org",
+            "times" : 3,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "160.emeraldonion.org",
+            "times" : 3,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "154.ip-144-217-7.net",
+            "times" : 3,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "tor-exit5-readme.dfri.se",
+            "times" : 2,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "tor-exit-4.all.de",
+            "times" : 2,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "ns3138560.ip-51-77-52.eu",
+            "times" : 2,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "ns3112521.ip-54-36-108.eu",
+            "times" : 2,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "freki.enn.lu",
+            "times" : 2,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "chomsky.torservers.net",
+            "times" : 2,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "47.ip-149-56-44.net",
+            "times" : 2,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "201.emeraldonion.org",
+            "times" : 2,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "192.42.116.16",
+            "times" : 2,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "185.220.101.58",
+            "times" : 2,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "185.220.101.34",
+            "times" : 2,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "185.220.101.3",
+            "times" : 2,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "185.220.101.20",
+            "times" : 2,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "185.220.101.1",
+            "times" : 2,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "178.17.174.229",
+            "times" : 2,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "168.emeraldonion.org",
+            "times" : 2,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "161.emeraldonion.org",
+            "times" : 2,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "156.emeraldonion.org",
+            "times" : 2,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "tor.friendlyexitnode.com",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "tor-exit.eecs.umich.edu",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "tor-exit1-readme.dfri.se",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "tor3.digineo.de",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "tor2.anonymizer.ccc.de",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "snowden.tor-exit.calyxinstitute.org",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "r190-64-141-18.ir-static.anteldata.net.uy",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "prawksi.relay.coldhak.com",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "nyxstudios.moe",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "kunstler.tor-exit.calyxinstitute.org",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "korematsu.tor-exit.calyxinstitute.org",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "jpn2-exit.privateinternetaccess.com",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "ip152.ip-66-70-130.net",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "exit.tor.uwaterloo.ca",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "cpe-144-131-134-105.static.nsw.bigpond.net.au",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "94.231.136.154",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "93.115.241.194",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "86.105.53.166",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "68.183.148.78",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "62.234.124.102",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "62-210-99-162.rev.poneytelecom.eu",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "62.102.148.69",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "61-216-145-48.hinet-ip.hinet.net",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "55.ip-51-77-148.eu",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "54.39.151.167",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "51.219.29.163",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "255.ip-151-80-144.eu",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "223.197.243.5",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "210.emeraldonion.org",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "209.emeraldonion.org",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "209.141.58.114",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "209.141.51.150",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "206.189.155.139",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "188.131.163.59",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "185.220.102.6",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "185.220.102.4",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "185.220.101.68",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "185.220.101.66",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "185.220.101.62",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "185.220.101.30",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "185.220.101.27",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "185.220.101.26",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "185.195.237.24",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "185.100.87.129",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "182.48.84.6",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "178.62.124.217",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "172.108.154.2",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "167.emeraldonion.org",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "165.227.9.184",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "164.132.38.167",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "163.emeraldonion.org",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "163.172.160.182",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "153.254.115.57",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "140.143.223.242",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "139.59.141.171",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "132.145.21.100",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "130.ip-192-99-68.net",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "128.199.231.239",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "124.ip-92-222-87.eu",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "123.136.161.146",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "122.224.203.228",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "122.199.152.157",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "122.160.138.123",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "107.155.49.126",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "106.13.12.210",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "106.12.181.34",
+            "times" : 1,
+            "status" : "false"
+        }
+,        {
+            "IP_Address" : "103.218.240.17",
+            "times" : 1,
+            "status" : "false"
+        }
+    ]}
